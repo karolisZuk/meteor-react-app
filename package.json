@@ -17,10 +17,22 @@
   },
   "homepage": "https://github.com/AdamBrodzinski/meteor-react-boilerplate",
   "dependencies": {
+    "babel-runtime": "^6.25.0",
+    "bcrypt": "^1.0.2",
     "classnames": "^2.2.5",
+    "create-react-class": "^15.6.0",
     "history": "^3.0.0",
-    "react": "^15.3.0",
-    "react-dom": "^15.3.0",
+    "materialize-css": "^0.100.1",
+    "react": "^15.6.1",
+    "react-addons-create-fragment": "^15.6.0",
+    "react-addons-css-transition-group": "^15.6.0",
+    "react-addons-linked-state-mixin": "^15.6.0",
+    "react-addons-perf": "^15.4.2",
+    "react-addons-pure-render-mixin": "^15.6.0",
+    "react-addons-test-utils": "^15.6.0",
+    "react-addons-transition-group": "^15.6.0",
+    "react-addons-update": "^15.6.0",
+    "react-dom": "^15.6.1",
     "react-router-dom": "^4.0.0-beta.6"
   }
 }

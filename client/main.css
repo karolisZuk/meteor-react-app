@@ -1,7 +1,8 @@
 /* CSS declarations go here */
 Header a.active {
   font-weight: bold;
-  text-decoration: underline;
+  color: lightblue;
+  text-decoration: none;
 }
 Header a, #login-buttons a {
   text-decoration: none;
